@@ -1,0 +1,7 @@
+15:07:05.058 [main] ERROR oldSource.App - Ip : 10.193.33.82 Port : 80/Connection timed out: connect
+15:07:26.112 [main] ERROR oldSource.App - Ip : 10.193.33.82 Port : 3389/Connection timed out: connect
+15:08:49.907 [main] ERROR oldSource.App - Ip : 10.193.33.82 Port : 80 - Connection timed out: connect
+15:09:10.947 [main] ERROR oldSource.App - Ip : 10.193.33.82 Port : 3389 - Connection timed out: connect
+15:09:32.005 [main] ERROR oldSource.App - Ip : 10.202.16.23 Port : 443 - Connection timed out: connect
+15:09:32.015 [main] INFO  oldSource.App - Connected with ip : 10.201.210.12 and port : 80
+15:09:33.025 [main] INFO  oldSource.App - Connected with ip : 10.201.210.12 and port : 443

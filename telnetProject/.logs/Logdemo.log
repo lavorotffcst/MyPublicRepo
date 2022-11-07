@@ -1,0 +1,5 @@
+16:36:27.739 [main] DEBUG com.telnet.telnetProject.App - Sample debug message
+16:36:27.744 [main] INFO  com.telnet.telnetProject.App - Sample info message
+16:36:27.768 [main] WARN  com.telnet.telnetProject.App - Sample warn message
+16:36:27.774 [main] ERROR com.telnet.telnetProject.App - Sample error message
+16:36:27.780 [main] FATAL com.telnet.telnetProject.App - Sample fatal message
