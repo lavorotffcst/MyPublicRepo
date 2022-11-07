@@ -18,7 +18,7 @@ class TestTelnetNew extends TimerTask
     	String porta = null;
         try
         {
-       	    //Controllare il codice forse perchè corretto
+       	    //Controllare il codice forse perchè corretto!
         	System.out.println("Connessione con : "+ indirizzo);
         	int posi = ((String) indirizzo).indexOf(":") + 1;
         	porta = indirizzo.substring(posi,indirizzo.length()); // 
